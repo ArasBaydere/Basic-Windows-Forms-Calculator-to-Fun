@@ -1,0 +1,10 @@
+E:\arasbaydere\sayitoplama\sayitoplama\bin\Debug\sayitoplama.exe.config
+E:\arasbaydere\sayitoplama\sayitoplama\bin\Debug\sayitoplama.exe
+E:\arasbaydere\sayitoplama\sayitoplama\bin\Debug\sayitoplama.pdb
+E:\arasbaydere\sayitoplama\sayitoplama\obj\Debug\sayitoplama.csproj.AssemblyReference.cache
+E:\arasbaydere\sayitoplama\sayitoplama\obj\Debug\sayitoplama.Form1.resources
+E:\arasbaydere\sayitoplama\sayitoplama\obj\Debug\sayitoplama.Properties.Resources.resources
+E:\arasbaydere\sayitoplama\sayitoplama\obj\Debug\sayitoplama.csproj.GenerateResource.cache
+E:\arasbaydere\sayitoplama\sayitoplama\obj\Debug\sayitoplama.csproj.CoreCompileInputs.cache
+E:\arasbaydere\sayitoplama\sayitoplama\obj\Debug\sayitoplama.exe
+E:\arasbaydere\sayitoplama\sayitoplama\obj\Debug\sayitoplama.pdb
